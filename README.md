@@ -28,8 +28,8 @@ This is my solution to the [QR Code Component Challenge on Frontend Mentor](http
 ![Mobile Screenshot](./design/mobile-design.jpg)
 
 ### Links
-- **Solution URL:** [Solution on Frontend Mentor](https://your-solution-url.com)
-- **Live Site URL:** [Live Demo](https://your-live-site-url.com)
+- **Solution URL:** [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-TuNs5CGZhb)
+- **Live Site URL:** [Live Demo](https://fernandojosecc.github.io/qr-code-component/)
 
 ---
 
